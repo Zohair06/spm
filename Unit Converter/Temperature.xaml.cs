@@ -33,6 +33,16 @@ namespace Unit_Converter
         private void calculateTemp(object sender, RoutedEventArgs e)
         {
             double result,value = double.Parse(valueTxbx.Text);
+             if (combo1.Text == "Fahrenheit" && combo2.Text == "Fahrenheit")
+            {
+                resultTxbx.Text = valueBox.Text;
+            }
+             if (combo1.Text == "Celsius" && combo2.Text == "Celsius")
+            {
+                resultTxbx.Text = valueBox.Text;
+            }
+            
+            // Fahrenheit to Celius
             if (cBox1.Text == "Fahrenheit" && cBox2.Text == "Celcius")
             {
                 result =(value -32)/(1.8);
