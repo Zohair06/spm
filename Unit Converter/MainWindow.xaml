@@ -1,0 +1,57 @@
+﻿<Window x:Class="Unit_Converter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="473.688" Width="435.606">
+    <Grid Margin="0,0,0,-1" Background="#FF6FEC6F">
+        <Button x:Name="temperatureBtn" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Width="149" Height="102" Click="tConversions" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="hot_temperature-512.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="lengthBtn" Content="" HorizontalAlignment="Left" Margin="149,0,0,0" VerticalAlignment="Top" Width="148" Height="102" RenderTransformOrigin="1.911,0.703" Click="lengthButten">
+            <Button.Background>
+                <ImageBrush ImageSource="Fitness-157-512.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="massBtn" Content="" HorizontalAlignment="Left" Margin="297,0,0,0" VerticalAlignment="Top" Width="131" Height="102" RenderTransformOrigin="1.911,0.703" Click="massC">
+            <Button.Background>
+                <ImageBrush ImageSource="Kg_weight.png"/>
+            </Button.Background>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Margin="0,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="428" Height="22" FontWeight="Bold" FontSize="13" Foreground="#FF0E0101"><Run Text="   Temperature    "/><Run Language="en-gb" Text="           "/><Run Text="            Length        "/><Run Language="en-gb" Text="         "/><Run Text="              Mass"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="0,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="428" Height="22" FontWeight="Bold" FontSize="13"><Run Text="   "/><Run Language="en-gb" Text="      Speed"/><Run Text=" "/><Run Language="en-gb" Text="                   "/><Run Text="               "/><Run Language="en-gb" Text="Volume"/><Run Text="     "/><Run Language="en-gb" Text="         "/><Run Text="                 "/><Run Language="en-gb" Text="Area"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="2,395,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="416" Height="22" FontWeight="Bold" FontSize="13"><Run Text=" "/><Run Language="en-gb" Text="Fuel Corporation"/><Run Text="       "/><Run Language="en-gb" Text="                "/><Run Text="     "/><Run Language="en-gb" Text="clock  "/><Run Text="    "/><Run Language="en-gb" Text="      "/><Run Text="        "/><Run Language="en-gb" Text=" "/><Run Language="en-gb" Text="Digital Storage"/></TextBlock>
+        <Button x:Name="speedBtn" Content="" HorizontalAlignment="Left" Margin="0,134,0,0" VerticalAlignment="Top" Width="149" Height="113" Click="speed">
+            <Button.Background>
+                <ImageBrush ImageSource="man-human-002-512.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="volumeBtn" Content="" HorizontalAlignment="Left" Margin="149,134,0,0" VerticalAlignment="Top" Width="148" Height="113" Click="volume">
+            <Button.Background>
+                <ImageBrush ImageSource="data-512.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="areaBtn" Content="" HorizontalAlignment="Left" Margin="297,134,0,0" VerticalAlignment="Top" Width="131" Height="113" Click="areaButten">
+            <Button.Background>
+                <ImageBrush ImageSource="d_effect.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="fuelBtn" Content="" HorizontalAlignment="Left" Margin="0,274,0,0" VerticalAlignment="Top" Width="149" Height="121" Click="fuelButten">
+            <Button.Background>
+                <ImageBrush ImageSource="img_538449.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="clockbtn" Content="" HorizontalAlignment="Left" Margin="149,274,0,0" VerticalAlignment="Top" Width="148" Height="121" Click="clockButten">
+            <Button.Background>
+                <ImageBrush ImageSource="Alarm.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="dStorageBtn" Content="" HorizontalAlignment="Left" Margin="297,274,0,0" VerticalAlignment="Top" Width="131" Height="121" Click="digitalBtn">
+            <Button.Background>
+                <ImageBrush ImageSource="5277.server-and-monitor-pc_16C445B8.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="quitBTN" Content="Quit" HorizontalAlignment="Left" Margin="2,417,0,0" VerticalAlignment="Top" Width="426" Height="27" FontSize="15" FontWeight="Bold" Click="toQuit" Background="#FF42C36B"/>
+
+    </Grid>
+</Window>

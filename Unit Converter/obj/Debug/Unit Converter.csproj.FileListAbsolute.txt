@@ -1,0 +1,21 @@
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\bin\Debug\Unit Converter.exe.config
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\bin\Debug\Unit Converter.exe
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\bin\Debug\Unit Converter.pdb
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Unit Converter.csprojResolveAssemblyReference.cache
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\MainWindow.baml
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Temperature.baml
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\MainWindow.g.cs
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Temperature.g.cs
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\App.g.cs
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Unit Converter_MarkupCompile.cache
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Unit Converter.g.resources
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Unit_Converter.Properties.Resources.resources
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Unit Converter.csproj.GenerateResource.Cache
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Unit Converter.exe
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Unit Converter.pdb
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Speed.baml
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Speed.g.cs
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Timer.baml
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\Timer.g.cs
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\MassC.baml
+G:\Studies\Comsats\BSSE-5\Visual Programming\Project\Afzal\Unit Converter\obj\Debug\MassC.g.cs
